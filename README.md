@@ -1,6 +1,6 @@
 # fumes_extractor
 
-CAD, STEP and 3D printing files for the portable Solder / Glue Fumes Extractor described here: https://raphtronic.blogspot.com/2025/05/diy-solder-glue-fumes-desk-filter.html
+CAD, STEP and 3D printing files (Bambu Lab P1S) for the portable Solder / Glue Fumes Extractor described here: https://raphtronic.blogspot.com/2025/05/diy-solder-glue-fumes-desk-filter.html
 
 This extractor can suck in fumes from a large area and traps contaminants in a refillable carbon cartridge.
 
