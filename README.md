@@ -1,4 +1,4 @@
-# fumes_extractor
+# Portable Desk Fumes Extractor & Filter
 
 CAD, STEP and 3D printing files (Bambu Lab P1S) for the portable Solder / Glue Fumes Extractor described here: https://raphtronic.blogspot.com/2025/05/diy-solder-glue-fumes-desk-filter.html
 
