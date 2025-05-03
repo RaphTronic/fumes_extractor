@@ -16,4 +16,4 @@ Happy fumes-be-gone to all !
 
 ![batt config](https://github.com/user-attachments/assets/7317fb5d-922b-4448-adb3-007f0e4a8a22)
 
-![configurations](https://github.com/user-attachments/assets/f246baa7-80f6-4351-b67a-13dae9cc8a0d)
+![configurations x2048](https://github.com/user-attachments/assets/09c5d423-491e-48c4-9701-7443a4f3eb67)
