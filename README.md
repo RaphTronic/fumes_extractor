@@ -6,6 +6,8 @@ This extractor can suck in fumes from a large area and traps contaminants in a r
 
 It can be self-powered via an optional battery base that doubles up as a portable variable bench DC power supply.
 
+Feel free to copy / remix / whatever.
+
 Happy fumes-be-gone to all !
 
 ![20250428_152542 crop](https://github.com/user-attachments/assets/53b48edd-efb7-4c4b-b487-257acf9cbbfc)
