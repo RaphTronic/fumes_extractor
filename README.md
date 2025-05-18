@@ -2,7 +2,7 @@
 
 CAD, STEP and 3D printing files (Bambu Lab P1S) for the portable Solder / Glue Fumes Extractor described here: https://raphtronic.blogspot.com/2025/05/diy-solder-glue-fumes-desk-filter.html
 
-This extractor can suck in fumes from a large area and traps contaminants in a refillable carbon cartridge.
+This extractor can suck in fumes from a large area and traps contaminants in a carbon cartridge. The cartridge is refillable, holds ~1lb of carbon, and is thick enough to capture most contaminants in 1 pass.
 
 It can be self-powered via an optional battery base that doubles up as a portable variable bench DC power supply.
 
